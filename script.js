@@ -2,10 +2,10 @@ const text = document.querySelector(".second-text");
 
 const textLoad = () => {
   setTimeout(() => {
-    text.textContent = "Bun";
+    text.textContent = "Lita";
   }, 0);
   setTimeout(() => {
-    text.textContent = "Chichi";
+    text.textContent = "Chubby";
   }, 4000);
   setTimeout(() => {
     text.textContent = "<3";
